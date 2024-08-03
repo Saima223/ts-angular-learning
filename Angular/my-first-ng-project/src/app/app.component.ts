@@ -10,4 +10,5 @@ export class AppComponent {
 
   fname = 'Joe';
   lname = 'Doe';
+  age = 30;
 }
